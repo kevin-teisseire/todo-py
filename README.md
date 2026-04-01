@@ -26,4 +26,6 @@ python3 td_main.py modify --id 2 -s "done"
 | clear   | Delete all tasks |
 | stats   | Display tasks statistics |
 
-For more details : python3 td_main.py --help
+## Options
+
+For all available options : python3 td_main.py --help
