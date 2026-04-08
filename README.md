@@ -6,6 +6,8 @@ A simple command line task manager in python
 
 git clone https://github.com/kevin-teisseire/todo-py
 cd todo-py
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 
 ## Use
